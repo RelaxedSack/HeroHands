@@ -1,8 +1,8 @@
 {
 	"Changelist" : 3039270,
-	"BuildId" : "d28faa0a-7ee2-4185-8b34-709281838400",
+	"BuildId" : "4846240c-1b7d-46bd-9d88-41f188cf354d",
 	"Modules" : 
 	{
-		"GestureTrackerVR" : "UE4Editor-GestureTrackerVR.dll"
+		"GestureTrackerVR" : "UE4Editor-GestureTrackerVR-6789.dll"
 	}
 }
