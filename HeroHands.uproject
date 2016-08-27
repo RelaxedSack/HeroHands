@@ -2,11 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.12",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "GestureTrackerVR",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
