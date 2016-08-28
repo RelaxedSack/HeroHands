@@ -1,0 +1,25 @@
+
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Gesture Tracker VR",
+  "Description": "Actor component that provides easy gesture tracking and recognition for VR motion controllers.",
+  "Category": "Virtual Reality",
+  "CreatedBy": "Hunter Delattre",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "GestureTrackerVR",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

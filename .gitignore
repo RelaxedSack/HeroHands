@@ -65,5 +65,4 @@ DerivedDataCache/*
 Content/StarterContent/HDRI/*
 Content/StarterContent/Maps/*
 
-Plugins/GestureTrackerVR/*
-
+!Plugins/GestureTrackerVR/Binaries/**/*.dll
