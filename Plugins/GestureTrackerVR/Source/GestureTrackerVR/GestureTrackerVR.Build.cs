@@ -6,7 +6,6 @@ public class GestureTrackerVR : ModuleRules
 {
     public GestureTrackerVR(TargetInfo Target)
     {
-
         PublicIncludePaths.AddRange(
             new string[] {
                 "GestureTrackerVR/Public"
@@ -24,7 +23,7 @@ public class GestureTrackerVR : ModuleRules
         PublicDependencyModuleNames.AddRange(
             new string[]
             {
-                "InputCore"
+
             }
             );
 
@@ -35,7 +34,6 @@ public class GestureTrackerVR : ModuleRules
                 "Core",
                 "CoreUObject",
                 "Engine",
-                "SteamVR"
                 // ... add private dependencies that you statically link with here ...	
             }
             );
